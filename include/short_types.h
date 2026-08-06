@@ -21,4 +21,4 @@ typedef double f64;
 typedef size_t    usize;
 typedef ptrdiff_t isize;
 
-#endif
+#endif // SHORT_TYPES_H
