@@ -15,7 +15,7 @@ It brings a more modern naming style to C, similar to languages like Rust, while
 
 ## Usage
 
-copy and paste short_types.h into your project director
+copy and paste short_types.h into your project directory
 and include it like this
 ```c
 #include "short_types.h"
